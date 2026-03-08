@@ -1,3 +1,20 @@
 * {
     font-family: Arial, Helvetica, sans-serif;
 }
+
+.card {
+    background-color: lightblue;
+    padding: 16px;
+    border-radius: 10px;
+    margin-bottom: 16px;
+}
+
+.create-project-btn {
+    margin-bottom: 16px;
+}
+
+.create-item-btn {
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
